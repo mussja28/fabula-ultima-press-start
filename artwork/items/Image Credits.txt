@@ -1,0 +1,16 @@
+Images by PixelTier
+Consumables:
+Elixir (replaces with Alchemy RPG Icon Pack 4, bottle_002)
+Remedy (replaces with Alchemy RPG Icon Pack 4, bottle_001)
+Tonic (replaces with Alchemy RPG Icon Pack 4, bottle_004)
+------------------
+Weapons:
+Greatsword (RPG Pack Update 8, Swords - sword_21)
+Heavy Spear (RPG Pack Update 8, Misc-Weapons - weapon_25)
+Staff (RPG Pack Update 8, Magic-Weapons - magicweapon_21)
+Steel Dagger (replace with RPG Pack Update 8, Swords - sword_88)
+------------------
+Armor:
+Bronze Shield (RPG Pack Update 8, Shields - shield_133)
+Runic Plate (RPG Pack Update 8, Armors - armor_10)
+Travel Garb (replace with RPG Pack Update 8, Jackets and Cloaks - jacket_1)

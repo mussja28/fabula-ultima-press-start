@@ -1,0 +1,12 @@
+Landing Page - Wonderfully Deceptive - Song used to play as background music on the landing page until players are ready to go.
+S1.1 - Noble Purpose - Music used in the first half of the scene prior the the starting event.
+S1.1 - Traitorous Tricks - Music to play after the purple light event occurs.
+S2 - Mysterious Haven - Track to play when the players setup their bonds and role play before heading into Scene 3.
+S3 - Sorcerous Sanctorum - For the first Villain scene.
+S4 - Underworld Entry - Music to play during the players first group check in Scene for and initially into Scene 5.
+S5 - Dashing Heroics - Our first battle music. Make sure to adjust the volume as desired so you are clearly heard.
+S6 - Items for Sale - Music to play in the background while the party converses with Olivia the traveling Merchant.
+S7 - Wandering Heart - This music track is meant to fill the background silence while the players take a break or while you discuss some of the mechanics introduced in the Interlude Scene.
+S8.1 - Tragic Kingdom - A simple background and setup track during the players first roleplay scene with the villains.
+S8.2 - No Surrender - Boss Battle Music
+Conclusion - Only Memories - Music to play out on the conclusion page as you conclude the adventure however you do so.

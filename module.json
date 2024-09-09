@@ -1,0 +1,106 @@
+{
+  "id": "fabula-ultima-press-start",
+  "title": "Fabula Ultima - Press Start",
+  "version": "2.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "12"
+  },
+  "description": "This contains all of the contents necessary for running the Fabula Ultima - Press Start adventure.",
+  "packFolders": [
+    {
+      "name": "Press Start",
+      "sorting": "a",
+      "color": "#2b4a42",
+      "packs": [
+        "player-characters",
+        "npcs",
+        "items",
+        "scenes",
+        "journals",
+        "press-start",
+        "music"
+      ],
+      "folders": []
+    }
+  ],
+  "packs": [
+    {
+      "name": "player-characters",
+      "label": "Player Characters",
+      "path": "packs/player-characters",
+      "type": "Actor",
+      "system": "projectfu",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "npcs",
+      "label": "NPCs",
+      "path": "packs/npcs",
+      "type": "Actor",
+      "system": "projectfu",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "items",
+      "label": "Items",
+      "path": "packs/items",
+      "type": "Item",
+      "system": "projectfu",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "scenes",
+      "label": "Scenes",
+      "path": "packs/scenes",
+      "type": "Scene",
+      "system": "projectfu",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "journals",
+      "label": "Journals",
+      "path": "packs/journals",
+      "type": "JournalEntry",
+      "system": "projectfu",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "press-start",
+      "label": "Press Start",
+      "path": "packs/press-start",
+      "type": "Adventure",
+      "system": "projectfu",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "music",
+      "label": "Music",
+      "path": "packs/music",
+      "type": "Playlist",
+      "system": "projectfu",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ]
+}
