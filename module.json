@@ -1,12 +1,18 @@
 {
   "id": "fabula-ultima-press-start",
   "title": "Fabula Ultima - Press Start",
-  "version": "2.0",
+  "version": "#{VERSION}#",
   "compatibility": {
     "minimum": "11",
     "verified": "12"
   },
   "description": "This contains all of the contents necessary for running the Fabula Ultima - Press Start adventure.",
+  "readme": "README.md",
+  "license": "LICENSE",
+	"changelog": "CHANGELOG.md",
+	"url": "#{URL}#",
+	"manifest": "#{MANIFEST}#",
+	"download": "#{DOWNLOAD}#",
   "packFolders": [
     {
       "name": "Press Start",
