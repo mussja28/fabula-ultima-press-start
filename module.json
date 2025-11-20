@@ -3,10 +3,10 @@
   "title": "Fabula Ultima - Press Start",
   "version": "#{VERSION}#",
   "compatibility": {
-    "minimum": "11",
-    "verified": "12"
+    "minimum": "12",
+    "verified": "13"
   },
-  "description": "This contains all of the contents necessary for running the Fabula Ultima - Press Start adventure.",
+  "description": "<p>This contains all of the contents necessary for running the Fabula Ultima - Press Start adventure.</p>",
   "readme": "README.md",
   "license": "LICENSE",
 	"changelog": "CHANGELOG.md",
@@ -108,5 +108,6 @@
         "ASSISTANT": "OWNER"
       }
     }
-  ]
+  ],
+  "flags": {}
 }
